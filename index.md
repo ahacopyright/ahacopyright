@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# 啊哈，版权！
 
-You can use the [editor on GitHub](https://github.com/ahacopyright/ahacopyright/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/100815114/156478725-6c217222-0b7c-4f8f-81fc-435902d565ce.png)
+> [版权（也叫作者权）](https://www.wipo.int/copyright/zh/)是用来表述创作者对其文学和艺术作品所享有权利的法律用语。涉及版权的作品有：图书、音乐、绘画、雕塑、电影、计算机程序、数据库、广告、地图和技术制图等。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 参考
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahacopyright/ahacopyright/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
